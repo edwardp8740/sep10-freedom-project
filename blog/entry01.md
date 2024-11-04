@@ -9,7 +9,7 @@ Two links I have thought about exploring is [New architecture technologies for a
 I am currently on the first step, (step 1), and a bit of the second step, (researching), of the EDP, (engineering design process). A problem I hope to solve with my project is that people think technology won't help architecture. I plan on asking my friends about their opinion and ideas and use that to help me find possible solutions as well just ideas for future technology in architecture.
 
 ## Skills
-Some skills I've leanred are:
+Some skills I've learned are:
 * How to Google
 * Time Management
 
