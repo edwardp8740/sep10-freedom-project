@@ -7,7 +7,7 @@ Ever since we choose our topics we've beeen gathering info on our topic, more sp
 
 ## Engineering Design Process
 
-I am currently on the second step, of the EDP, (engineering design process). A problem I hope to solve with my project is that people think technology won't help architecture. I plan on asking my friends about their opinion and ideas and use that to help me find possible solutions as well just ideas for future technology in architecture.
+I am currently on the second step of the engineering design process, (Research), moving to step 3, (Brainstorm). 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
