@@ -7,7 +7,13 @@ Ever since we choose our topics we've beeen gathering info on our topic, more sp
 
 ## Engineering Design Process
 
-I am currently on the second step of the engineering design process, (Research), moving to step 3, (Brainstorm). I think I'm in a good place right now because I don't think I'm behind on anything and I have some good info for my website. To get ahead, I will try to start step 3, brainstorming.
+I am currently on the second step of the engineering design process, (Research), moving to step 3, (Brainstorm). I think I'm in a good place right now because I don't think I'm behind on anything and I have some good info for my website. To get ahead, I will try to start step 3, brainstorming. Besides that I think I'm in a good position.
+
+## Skills
+
+Skills I've improved on or learned:
+* **How to Google**
+* 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
