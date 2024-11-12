@@ -13,7 +13,15 @@ I am currently on the second step of the engineering design process, (Research),
 
 Skills I've improved on or learned:
 * **How to Google**
-* 
+* **Growth Mindset**
+
+#### Growth Mindset
+
+While I was doing my first search for my hardware research I kept getting frustrated that I couldn't find anything good. It just frustrated me a lot because I couldn't get any work done so I tried calming myself down for a bit. After I was calm I tried again and changed my search. This caused me to find what I was looking for and find new things about architecture. It was here when I realized that I was getting frustrated for no reason and that I should've been patient with myself and my learning. I'm sure this new skill will come in handy for my future coding and/or research because I'm likely to have at least a few errors or problems along the way and having a growth mindset will allow me to stay calm and focus.
+
+#### How to Google 
+
+While I did my first search I couldn't find anything good for my website. I would also find the same things over and over and over again , like apple pens and/or tablets, etc. After a bit though I started to realize that my google search was just not specific enough and was why I was getting the same thing. I looked at the slides Mr. Mueller provided and saw a different search I could use in google for my topic. When I switched it I saw that I got all of the research I needed for the hardware part. This helped me develop my skill of **How to Google** from last time because I realized that I shouldn't just do one search and expect to get the exact thing I wanted. Instead I should try mulitple searches until I find what I want or find extra things to add to my research.
 
 [Previous](entry01.md) | [Next](entry03.md)
 
