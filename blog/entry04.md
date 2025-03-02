@@ -33,10 +33,12 @@ And here's the code for the simple face
 ### Skills 
 
 Two skills I learned/improved on was:
-* **Creativity**
+* **Consideration**
 * **How to learn**
 
-Before
+Learning A-frame wasn't exactly easy because it had many elements and attributes to it. I was trying to learn it all by myself on my own by testing everything and the attributes, but it was really hard, so instead I went to go find YouTube videos to explain the basic sum up of A-frame. After this, I found it much easier to do A-frame, and I think now that I don't have to learn it on my own and can go to other tools to help me learn faster and better.
+
+While choosing my tool, something I really had to think about was consideration, because this whole project is about how we can help people with all sorts of topics. I decided to get some of my peers help on my invention; this really helped open my view to what people might want, what they wouldn't want, and what they might need in my invention to help them. Now I should be able to think about stuff people might need and want in the future and questions to ask myself when considering the needs and wants of others.
 
 [Previous](entry03.md) | [Next](entry05.md)
 
