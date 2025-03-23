@@ -4,9 +4,8 @@
   </head>
   <body>
     <a-scene>
-      <a-sky color="black"></a-sky>
-      <a-entity rotation="0 0 0"  position="0 1 -10" animation="property: rotation; to: 360 0 0; loop: true; dur: 10000" easing="linear">
-        <a-entity position="0 0 -10">
+        <a-entity rotation="1 1 1" animation="property: rotation; to: 30 30 360; loop: true; dur: 3000">
+            <a-sky color="black"></a-sky>
             <a-torus position="0 1 -10" color="white" radius="3" width=".001" radius-tubular=".05"></a-torus>
             <a-torus position="0 1 -10" color="white" radius="3" width=".001" radius-tubular=".05" rotation="90%"></a-torus>
             <a-torus position="0 1 -10" color="white" radius="3" width=".001" radius-tubular=".05" rotation="45%"></a-torus>
@@ -35,7 +34,6 @@
             <a-sphere color="yellow" radius=".3" position="-2.3 1 -12"></a-sphere>
             <a-sphere color="yellow" radius=".3" position="-1.55 -1.5 -10"></a-sphere>
         </a-entity>
-      </a-entity>
     </a-scene>
   </body>
 </html>

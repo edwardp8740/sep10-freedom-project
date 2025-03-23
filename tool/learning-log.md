@@ -19,6 +19,13 @@
     * I managed to make it spin and rotate a bit but it doesn't end in the same position it started
       * (If you want to see the spin use w, s, d, a to move to the side of the atom to see the spin in full action)
       * I wonder how to make it end in the same position it started off at
+### 3/17/25
+* From my last log I was left off wondering how to make my atom end up in the same position it started off at and to answer this question I went to find videos
+  * I found a video using a different way to make animation possible in a-frame and wanted to [test](aframe-animation-testing-2.html) it out
+    * After testing it out, it didn't work it could've been to a-frame being more updated now since the video was 6 years old so it could be an outdated version of a-frame
+  * I couldn't find much else about this question
+* Although I came empty hand from my last question I did try my own version of making it stay still
+  * I couldn't figure it out and it ended
 
 
 <!--
