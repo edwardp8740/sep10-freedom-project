@@ -25,7 +25,10 @@
     * After testing it out, it didn't work it could've been to a-frame being more updated now since the video was 6 years old so it could be an outdated version of a-frame
   * I couldn't find much else about this question
 * Although I came empty hand from my last question I did try my own version of making it stay still
-  * I couldn't figure it out and it ended
+  * I couldn't figure it out and it ended up just rotating around the person
+* A question I still have is to make it end in the same position it started off at
+  * I have a theory it might not be possible but I still have to see
+  * I'm going to do more research about this question if I find nothing then I will leave it for now and focus on other stuff
 
 
 <!--
