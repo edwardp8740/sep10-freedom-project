@@ -29,6 +29,25 @@
 * A question I still have is to make it end in the same position it started off at
   * I have a theory it might not be possible but I still have to see
   * I'm going to do more research about this question if I find nothing then I will leave it for now and focus on other stuff
+### 3/24/25
+* I couldn't find anything about before so I will leave it for now and focus on developing my knowledge of the aframe I already know
+* Today I'm going to do something a little bit bigger
+  * I will make a scenery
+    * Mini project for myself using aframe to develop using it
+    * To do this I will use some of the new shapes I tested in [aframe-shapes.html](aframe-shapes.html)
+    * I decided to make a forest scenery, I made trees some more close together and others further apart to give it a more realistic type of vibe and big rocks for more style, as well as small pebbles on the floor like real pebbles you find in a forest
+      * New shapes I will use in this scenery: dodecahedron, icosahedron, cylinder, cone
+      * Color I used:
+        * Grass: #136d15
+        * Rocks: gray
+        * Tree leaves: #0D3309
+        * Tree Trunk: #5C2C06
+      * Shapes and their purposes
+        * Dodecahedron & icosahedron: rocks/mini rocks
+        * Cylinder: Tree trunk
+        * Cone: Tree leaves
+
+
 
 
 <!--
