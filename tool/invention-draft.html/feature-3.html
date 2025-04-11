@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+        <a-sky color="blue"></a-sky>
+        <a-entity position="0 .6 4">
+          <a-entity position="0 .6 4">
+            <a-camera>
+                <a-entity id="mycursor" cursor="fuse: false; max-distance: 30;"
+                position="0 0 -5"
+                geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
+                material="color: black; shader: flat">
+                </a-entity>
+            </a-camera>
+        </a-entity>
+        <a-link href="index.html" title="Back to start" position="-5 0 -10" on="click"></a-link>
+        <a-link href="feature-1.html" title="Feature one: single room view" position="0  0 -10" on="click"></a-link>
+        <a-link href="feature-3.html" title="Feature two: change room design" position="5 0 -10" on="click"></a-link>
+        <a-plane color="gray" height="10000" width="10000" rotation="-90 0 0" position="0 -1 0"></a-plane>
+  </body>
+</html>

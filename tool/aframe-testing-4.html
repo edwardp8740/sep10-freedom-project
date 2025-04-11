@@ -1,0 +1,30 @@
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.0/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+        <a-sky color="blue"></a-sky>
+        <a-entity position="0 .6 4">
+            <a-camera>
+                <a-entity id="mycursor" cursor="fuse: true; fuseTimeout: 500; max-distance: 30;"
+                position="0 0 -5"
+                geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
+                material="color: black; shader: flat">
+                </a-entity>
+            </a-camera>
+        </a-entity>
+        <button></button>
+        <!-- "button" -->
+        <a-entity id="refresh-button" geometry="primitive: box" material="color: red" position="0 0 -2"></a-entity>
+    </a-scene>
+
+
+    <script>
+        document.querySelector('#refresh-button').addEventListener('click', function() {
+            // Refresh stuff would go here!
+            position:4 0 -5;
+        });
+    </script>
+  </body>
+</html>
