@@ -46,6 +46,7 @@ Here's the code to see the atom spin:
   </body>
 </html>
 ```
+Along with learning animation I learned other stuff like how to add cursors and links.
 
 
 [Previous](entry04.md) | [Next](entry06.md)
