@@ -46,8 +46,13 @@ Here's the code to see the atom spin:
   </body>
 </html>
 ```
-Along with learning animation I learned other stuff like how to add cursors and links.
+Along with learning animation I learned other stuff like how to add [cursors](https://aframe.io/docs/1.7.0/components/cursor.html) and [links](https://aframe.io/docs/1.7.0/components/link.html). In the mean time I also did mini projects to sharpen and develop my understanding on A-frame.
 
+### Skills
+
+A skill I developed was **how to learn** because for the most part everything we did was just was learning by ourselves. We didn't have a teacher to tell us how things worked and we had to find websites, videos, etc, to tell us how to do things and how they worked. Before in the past I wasn't really the best learner when it came to learning online because I just couldn't focus, but now I feel much more comfortable doing so. It isn't as hard and it isn't as weird to learn on my own now.
+
+Another skill I developed was **embracing failure**. I think it was something that was really important to take away from the past few months since we didn't have a teacher who knew a lot about the subject to help us or explain to us. So **embracing failure** was just something we had to learn and I plan to fix my failures in the future and even make better stuff than before.
 
 [Previous](entry04.md) | [Next](entry06.md)
 
