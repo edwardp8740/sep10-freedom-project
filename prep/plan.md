@@ -13,7 +13,7 @@
 * Dark blue - #07326A
 
 ## Fonts
-* [Playfair Display](https://fonts.google.com/selection/embed)
+* [Playfair Display](https://fonts.google.com/specimen/Playfair+Display?query=play+display) (title)
 
 ## Timeline
 
