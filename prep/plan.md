@@ -1,9 +1,9 @@
 # Plan
 
 ## Wireframes
-* [Mobile](wireframe-mobile.png)
-* [Desktop part 1](wireframe-computer-1.png)
-* [Desktop part 2](wireframe-computer-2.png)
+* [Mobile](../img/wireframe-mobile.png)
+* [Desktop part 1](../img/wireframe-computer-1.png)
+* [Desktop part 2](../img/wireframe-computer-2.png)
 
 ## Colors
 * White blue - #F1F7F9
