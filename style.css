@@ -14,21 +14,7 @@
 .title-font {
     font-family:playfair display;
 }
-.whiteblue {
-    color: #F1F7F9 !important;
-}
-.lightgrayblue {
-    color: #749DC8 !important;
-}
-.blue {
-    color: #0A61C9 !important;
-}
-.darkishblue {
-    color: #064089 !important;
-}
-.darkblue {
-    background-color: #07326A !important;
-}
+
 .title-img {
     background-image: url(img/fptitle-image.jpeg);
     background-attachment: fixed;
@@ -47,6 +33,6 @@
     font-size:13px;
 }
 a-scene {
-    height: auto;
-    width: auto;
-  }
+    width: 1000px;
+    height: 750px;
+}
