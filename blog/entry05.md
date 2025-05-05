@@ -3,7 +3,7 @@
 
 ### Content
 
-Ever since we chose a tool to add in our freedom project, we've been spending the time learning about our tool. We put the stuff we learned or did in a [file](tool/learning-log.md). In this file I didn't just learn but I also tried doing stuff. For example, when I learned about a-frame animation using tutorials on youtube and the a-frame webpage, I made an atom and tried to get it to spin using animation. 
+Ever since we chose a tool to add in our freedom project, we've been spending the time learning about our tool. We put the stuff we learned or did in a [file](../tool/learning-log.md). In this file I didn't just learn but I also tried doing stuff. For example, when I learned about a-frame animation using tutorials on youtube and the a-frame webpage, I made an atom and tried to get it to spin using animation. 
 Here's the code to see the atom spin:
 ``` HTML
 <html>
