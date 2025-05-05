@@ -31,6 +31,7 @@
 * Fix small details
 * Find anything else to add to make the website better
 * Add small details to the invention
+* Add color scheme and see if it looks good
 
 
 
