@@ -40,15 +40,12 @@
 
 
 
-<!-- DO NOT USE THIS YET
-
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
+|Benson|I like the aframe design that gets around to each one of the innovations.|I think that you should improve on making the link for the aframe thing 'back to webiste' work because it didn't wok and i had to spam backspace just for it to go back to the website.|
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 
--->
