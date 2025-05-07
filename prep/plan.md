@@ -35,7 +35,8 @@
 
 
 
-
+- [ ] Fix carousel
+- [ ] Add color scheme
 
 
 
