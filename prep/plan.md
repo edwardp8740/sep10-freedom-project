@@ -36,7 +36,7 @@
 
 
 - [ ] Fix carousel
-- [ ] Add color scheme
+- [x] Add color scheme
 
 
 
@@ -47,6 +47,4 @@
 | Xin Yu  |I think you did an great job on, making the Aframe tool interaciveble and you can press buttons and sort of stuff   | I think making your website colorful is also another good aspect of your website, so I think next time you could put some background color. I'm not saying black and white is bad but I think it should be more colorful at the same time. The image of the carousel doesn't work
 |  Bah |  I like the cool background architecture at the start | You could try reviewing your carousel and fixing the non-moving images.
 |  Leo | I like when yiy add a behind the scene link  | i think you should add differet types of bookstrap element becauses i dont see alot.
-|   |   |
-|   |   |
 
