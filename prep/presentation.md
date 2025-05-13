@@ -1,16 +1,31 @@
 # Presentation Plan
 
 ## Hook
-* 
+* tell the story of how I got into architecture
+  * "You ever had those long and boring talks with your parents when they tell you what job you should try getting or what you should get to help them out? Yeah well I had that talk with my dad and I guess you can say it worked because here I am talking now about my one of my possible future careers, archiecture."
 
 ## Product
-* 
+* GIF
 
 ## Process
-* 
+* MVP
+  * Show the big steps to get the MVP like:
+    * Part A and B
+    * Invention
+    * Planning and making layout
+* Challenges within the MVP
+* Beyond MVP
+  * Show small details like:
+    * Color scheme
+    * Carousel
+* Talk about some challenges to get beyond the MVP
+  * Code sinnpets/out comes of code for challenges
 
 ## Conclusion
-* 
+* Takeaways
+  * Ask for help - asking for help is not a bad thing to do and I learned this slowly through this project because many times I would dwell on a challenge and stay there for days, but by simply asking for help it solved my challenges in a much easier and faster manner.
+  * Mistakes are ok - you will make mistakes and that's ok. Many people after facing a few mistakes tend to back down or have less determination but we shouldn't let it because it's just all part of the process especially for something this big
+  * Fun takeaway: My dad was right - My dad's talk about getting into architecture somehow worked because now I see it as a possible future career.
 
 <!-- EXAMPLE
 
