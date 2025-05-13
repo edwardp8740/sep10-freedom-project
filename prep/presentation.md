@@ -23,9 +23,12 @@
 
 ## Conclusion
 * Takeaways
-  * Ask for help - asking for help is not a bad thing to do and I learned this slowly through this project because many times I would dwell on a challenge and stay there for days, but by simply asking for help it solved my challenges in a much easier and faster manner.
-  * Mistakes are ok - you will make mistakes and that's ok. Many people after facing a few mistakes tend to back down or have less determination but we shouldn't let it because it's just all part of the process especially for something this big
+  * Ask for help - asking for help is not a bad thing to do and I learned this slowly through this project because many times I would dwell on a challenge and stay there for days, but by simply asking for help it solved my challenges in a much easier and faster manner. For example when I had my problem with my carousel I just dwelled on it for a few days and didn't know how to fix it, but when I asked Mr. Mueller and other people for help it became clearer in a faster way.
+  * Mistakes are ok - you will make mistakes and that's ok. Many people after facing a few mistakes tend to back down or have less determination but we shouldn't let it because it's just all part of the process especially for something this big. I felt this way because I came through many challenges trying to add more stuff to my website like multiple carousels and adding an image as a background, It felt like the errors were very draining anda lost of motivation but now I see that it's ok to have those errors and mistakes.
   * Fun takeaway: My dad was right - My dad's talk about getting into architecture somehow worked because now I see it as a possible future career.
+
+
+CONCLUSION: last takeaway is good, but first 2 are a bit vague. Your takeaways should be so specific to YOU that it wouldn’t have made sense if someone else said them. Add details!
 
 <!-- EXAMPLE
 
