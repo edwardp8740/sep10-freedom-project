@@ -16,9 +16,32 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* 
+* Global
+  * Big systems 
+    * Website instead of a long article
+  * Environment
+    * People can find hardware and software about architecture online
+* Social
+  * Individual
+    * Architecture's/Future architecture's will be able to find a website easily about tools they can use or just learn about tools that might be useful in the future
+    * Normal artist can also find 3D softwares to help them draw in 3D or tools to make drawing in general easier
+  * Culture
+    * People who draw in general will have a base on apps they can use to draw in 3D even if it's unrelated to architecture
+* Economic
+  * Jobs
+    * Architecture's could find tools to make daily things in their job easier
+  * Finance
+    * Companies could see my idea of an invention and make it real which will lead to architectures having an easier time with jobs
+  * Infrastructure
+    * All images are not dependent on othe websites so if images from other websites go down the images will still stay up on my webstie
+
 ##### CONS
-* 
+* Social
+  * Individual
+    * Although there is somethings for artist in general, it mostly focuses on architecture and 3D art revolving around architecture.
+* Economic
+  * Infrastructure
+    * My a-frame is connected to my website so I can't show people my invention when my website goes down.
 
 
 ## Blog
