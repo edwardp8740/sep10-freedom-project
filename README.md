@@ -8,6 +8,8 @@ For my project, I chose the topic of **Architecture**.
 
 I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-frame** in order to help me make my website.
 
+My website's purpose is to help inform people of architeceture and give a starting point for current and future architects that might need help finding hardware tools to help make their experience faster and easier, and software apps that could help with making 3D art more clearer and easier to draw.
+
 ## Links
 
 [Product](https://edwardp8740.github.io/sep10-freedom-project/)
@@ -45,7 +47,7 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 
 ## Blog
-Below you will find my blog about how I made my project.
+Below you will find my blog about how I made my project. It also includes tools I learned like aframe and other real world tools I could use like real life skills and takeaways.
 
 * [Entry 1](blog/entry01.md)
 * [Entry 2](blog/entry02.md)
